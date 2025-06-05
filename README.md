@@ -1,7 +1,7 @@
 # Dannelly Solutions, Inc.
 
 ## About Us
-Dannelly Solutions, Inc. is a trusted provider of cutting-edge software engineering solutions, serving businesses across financial, eCommerce, healthcare, and manufacturing industries. With deep expertise in modern technology stacks, we design, develop, deploy and maintain scalable applications that empower enterprises to thrive in a digital-first world.
+Dannelly Solutions, Inc. is a trusted provider of cutting-edge software engineering solutions, serving small, medium and fortune 500 businesses across financial, eCommerce, healthcare, manufacturing and more industries. With deep expertise in modern technology stacks, we design, develop, deploy and maintain scalable applications that empower enterprises to thrive in a digital-first world.
 
 ## Our Expertise
 We specialize in delivering robust, high-performance solutions leveraging the latest in software development technologies, including:
