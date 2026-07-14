@@ -35,8 +35,8 @@ At Dannelly Solutions, Inc., we prioritize:
 
 ## Contact Us
 For collaboration or inquiries, reach out to us at:
-📧 **Email:** dannelly.solutions_at%$#_gmail.com  
-🌎 **Website:** [your-website.com]  
+📧 **Email:** [robert.dannelly@dannellysolutions.com](robert.dannelly@dannellysolutions.com)  
+🌎 **Website:** [dannellysolutions.com]  
 📍 **Location:** United States of America
 
 Let’s build the future, together! 🚀
